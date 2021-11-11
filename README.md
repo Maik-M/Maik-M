@@ -4,7 +4,7 @@
 - 👯 Quero ajudar no que eu puder em outros projetos ...
 - 😄 Toda ajuda que for acrescentar aos nossos conhecimentos é bem vinda ...
 
-<br>
+  <br>
   <div align="left">
     <a href="https://github.com/Maik-M">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maik-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
