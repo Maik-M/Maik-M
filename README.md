@@ -22,5 +22,5 @@
   </div>
   
   <div>
-    ![Snake animation](https://github.com/Maik-M/Maik-M/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Maik-M/Maik-M/.github/workflows/cobrinha.yml)
   </div>
