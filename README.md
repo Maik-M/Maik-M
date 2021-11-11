@@ -24,6 +24,12 @@
   </div>
   
   ##
+  <div>
+  
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maik-M&repo=PythonProjects&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+    
+  ##
   
   <br>
   <div align="left">
