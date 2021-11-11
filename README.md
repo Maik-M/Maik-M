@@ -3,8 +3,10 @@
 - 🔭 Procurando uma primeira oporunidade de trabalhar nesse magnífico mundo da tecnologia ...
 - 👯 Quero ajudar no que eu puder em outros projetos ...
 - 😄 Toda ajuda que for acrescentar aos nossos conhecimentos é bem vinda ...
+
   ##
-  <img align="right" alt="Maik-gif" height="200" src="https://cdn.discordapp.com/attachments/727239554091974699/908468269646745631/5tuarb.gif">
+  
+  <img align="right" alt="Maik-gif" height="150" src="https://cdn.discordapp.com/attachments/727239554091974699/908468269646745631/5tuarb.gif">
   <div align="left">
     <a href="https://github.com/Maik-M">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Maik-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -20,7 +22,9 @@
     &ensp;
     <img align="center" alt="Maik-IDE" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   </div>
+  
 ##
+  
   <br>
   <div align="center">
   <a href="https://instagram.com/_imaik" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
