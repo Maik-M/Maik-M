@@ -6,7 +6,7 @@
 
   ##
   
-  <img align="right" alt="Maik-gif" height="150" src="https://cdn.discordapp.com/attachments/727239554091974699/908468269646745631/5tuarb.gif">
+  <img align="right" alt="Maik-gif" height="120" src="https://cdn.discordapp.com/attachments/727239554091974699/908468269646745631/5tuarb.gif">
   <div align="left">
     <a href="https://github.com/Maik-M">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Maik-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
