@@ -21,5 +21,5 @@
     <img align="center" alt="Maik-IDE" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   </div>
   
-  ![Snake animation](https://github.com/Maik-M/Maik-M/.github/workflows/cobrinha.yml)
+  [Snake animation](https://github.com/Maik-M/Maik-M/.github/workflows/cobrinha.yml)
  
