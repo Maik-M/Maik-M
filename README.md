@@ -11,10 +11,9 @@
     <a href="https://github.com/Maik-M">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Maik-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maik-M&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-     <br>
-    <img height="180em" align="right" alt="Maik-gif" src="https://cdn.discordapp.com/attachments/727239554091974699/908470397836623943/5tuhic.gif">
     </a>
   </div>
+  <img height="180em" align="right" alt="Maik-gif" src="https://cdn.discordapp.com/attachments/727239554091974699/908470397836623943/5tuhic.gif">
   
   <div align="left" style="display: inline_block"><br>
     <img align="center" alt="Maik-Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
